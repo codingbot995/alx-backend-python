@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
+""" Module documentation """
+from typing import List
 
-'''lists'''
 
-def sum_list(input_list: list[ float]) -> float:
-    '''func'''
+def sum_list(input_list: List[float]) -> float:
+    """Func doc"""
     return sum(input_list)

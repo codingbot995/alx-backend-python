@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-'''string'''
+""" Module documentation """
+import math
 
-def to_str(n : float) ->str:
+
+def to_str(n: float) -> str:
+    """Func doc"""
     return str(n)
