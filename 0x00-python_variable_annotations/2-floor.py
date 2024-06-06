@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-'''floats'''
+""" Module documentation """
 import math
 
-def floor(n: float)-> int:
+
+def floor(n: float) -> int:
+    """Func doc"""
     return math.floor(n)
