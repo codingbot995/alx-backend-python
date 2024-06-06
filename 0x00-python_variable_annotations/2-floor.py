@@ -2,5 +2,5 @@
 '''floats'''
 import math
 
-def floor(n : float)->int:
+def floor(n: float)-> int:
     return math.floor(n)
